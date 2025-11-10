@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/status-online-success)
 ![Versão](https://img.shields.io/badge/versão-1.0-blue)
-![Licença](https://img.shields.io/badge/licença-MIT-green)
 ![Tecnologias](https://img.shields.io/badge/feito%20com-HTML%20%26%20CSS-orange)
 
 ---
@@ -22,9 +21,8 @@ Criar um **modelo de página inicial profissional e responsiva**, ideal para ser
 
 ## 🧩 Tecnologias Utilizadas
 
-- 🌐 **HTML5** → Estrutura da página  
-- 🎨 **CSS3** → Estilo, layout responsivo e design visual  
-- 🧱 **Flexbox e Media Queries** → Ajuste para diferentes tamanhos de tela  
+- 🌐 **HTML5** → Estrutura da página.
+- 🎨 **CSS3** → Estilo, layout responsivo (Media Queries) e design visual. 
 
 ---
 
@@ -39,10 +37,6 @@ Criar um **modelo de página inicial profissional e responsiva**, ideal para ser
 > 💡 As imagens acima mostram a responsividade e o design do projeto em diferentes dispositivos.
 
 ---
-
-## 📝 Licença
-#### Este projeo está sob a licença MIT.
-#### Consulte o arquivo "LICENSE" para mais informações.
 
 ## 👨‍💻 Autor
 ### Carlos Rocha
