@@ -1,4 +1,4 @@
-Página principal de um site para Localização de ampla cobertura com estrutura responsiva (computadores, notebooks, tablets e celulares). Inclui imagens, cabeçalho com links, textos e botões de ação.
+Página principal de um site de modelo com estrutura responsiva (computadores, notebooks, tablets e celulares). Inclui imagens, cabeçalho com links, textos e botões de ação.
 
 <a href="https://wide-coverage.vercel.app/">Acesse o site aqui</a>   
 
